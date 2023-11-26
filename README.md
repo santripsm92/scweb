@@ -33,7 +33,7 @@ Credit aplikasi full to [Gozargah Marzban](https://github.com/Gozargah), saya ha
 
 # Instalasi
   ```html
- apt-get update && wget https://github.com/santripsm92/scweb/raw/main/edy.sh && chmod +x edy.sh && ./edy.sh 
+ apt-get update && wget https://github.com/santripsm92/scweb/raw/main/tes.sh && chmod +x tes.sh && ./tes.sh 
  ```
 Pastikan anda sudah login sebagai root sebelum menjalankan perintah dibawah
  ```html
